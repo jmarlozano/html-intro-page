@@ -1,0 +1,118 @@
+body {
+   
+   background-color:  rgb(154, 216, 248);
+   margin-left: 40px;
+   margin-right: 40px;
+   margin-top: 30px;
+   border: 5px;
+   padding-left: 70px;
+   padding-right: 70px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   font-family: "Abhaya Libre", serif;
+}
+
+.container {
+    width: auto;
+    margin: 40px;
+    background-color: white;
+    padding: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-width: 1px;
+    border: 3px;
+    box-shadow: 2px 2px gray;
+
+}
+
+h1 {
+    background-color: rgb(94, 192, 253);
+    line-height: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: auto;
+    text-align: center;
+    color:rgba(236, 2, 131, 0.84);
+    border-radius: 3px;
+    border-width: 1px;
+    box-shadow: 2px 2px gray;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    
+}
+
+h2 {
+    background-color: rgb(134, 219, 255);
+    color:rgba(236, 2, 131, 0.84);
+    text-align: justify;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 3px;
+    border-width: 1px;
+    box-shadow: 2px 2px gray;
+    font-weight: 700;
+    font-style: normal;
+   
+}
+
+img {
+    display: flex;
+    margin: auto;
+    width: auto;
+    max-width: 90%;
+    height: auto;
+    padding: 3px;
+    border-radius: 3px;
+    border-width: 1px;
+    background-color: black;
+    box-shadow: 4px 4px gray;
+}
+
+p {
+    text-align: left;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 3px;
+    border-width: 1px;
+    background-color: rgb(213, 246, 253);
+    box-shadow: 2px 2px gray;
+    color: rgb(135, 60, 136);
+    font-size: 18px;
+    
+}
+
+
+ul {
+    text-align: left;
+    line-height: 30px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 3px;
+    border-width: 1px;
+    background-color: rgb(213, 246, 253);  
+    box-shadow: 2px 2px gray;
+    color: rgb(135, 60, 136);
+    font-size: 18px;
+   
+}
+
+a {
+    color: rgba(236, 2, 131, 0.84);
+}
+
+.footer{
+    line-height: 30px;
+    background-color: white;
+    text-align: center;
+    box-shadow: none;
+    color: rgba(236, 2, 131, 0.84);
+
+}
